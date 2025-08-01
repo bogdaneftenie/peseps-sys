@@ -8,7 +8,7 @@ A simple Python script that provides a **live display of CPU, RAM, disk usage, a
 
 ```
 📁 system-tools/
-├── monitor_live.py
+├── sys_live.py
 └── README.md
 ```
 
@@ -26,7 +26,7 @@ A simple Python script that provides a **live display of CPU, RAM, disk usage, a
 ## 🚀 How to Run
 
 ```bash
-python monitor_live.py
+python sys_live.py
 ```
 
 The script updates system statistics in real-time, refreshing in place every second.  
