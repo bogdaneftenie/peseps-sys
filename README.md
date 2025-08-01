@@ -7,7 +7,7 @@ A simple Python script that provides a **live display of CPU, RAM, disk usage, a
 ## 📂 Folder Structure
 
 ```
-📁 system-tools/
+📁   peseps-sys
 ├── sys_live.py
 └── README.md
 ```
